@@ -1,4 +1,9 @@
-[![itbaima](../images/itbaima.png)](https://itbaima.cn)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="../images/itbaima.dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="../images/itbaima.light.webp">
+  <img alt="itbaima logo" src="../images/itbaima.light.webp">
+</picture>
+
 
 ---
 
